@@ -1,12 +1,12 @@
 # Проект угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Описание проекта)
-[2. Какой кейс мы решаем](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#какой кейс мы решаем)
-[3. Краткая информация о данных](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Краткая информация о данных)
-[4. Этапы работы над проектом](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Этапы работы над проектом)
-[5. Результат](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Результат)
-[5. Выводы](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Выводы)
+* [1. Описание проекта](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Описание проекта)
+* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#какой кейс мы решаем)
+* [3. Краткая информация о данных](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Краткая информация о данных)
+* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Этапы работы над проектом)
+* [5. Результат](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Результат)
+* [6. Выводы](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное кол-во попыток.
