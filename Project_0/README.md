@@ -1,17 +1,17 @@
 # Проект угадай число
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
-* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#какой-кейс-мы-решаем)
-* [3. Краткая информация о данных](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Результат)
-* [6. Выводы](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Выводы)
+* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Описание-проекта)
+* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#какой-кейс-мы-решаем)
+* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Результат)
+* [6. Выводы](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное кол-во попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Оглавление)
 
 ## Какой кейс мы решаем
 Нужно написать программу, которая угадывает число за минимальное количество попыток
@@ -28,4 +28,4 @@
 
 ## Краткая информация о данных
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/tree/main/Project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project_0/README.md#Оглавление)
