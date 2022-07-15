@@ -28,6 +28,8 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project_1/README.md#Оглавление)
+
 ## 3. Краткая информация о данных
 Код представлен в файле game_2.py
 Код написан на Python версии 3.10.4
@@ -39,6 +41,8 @@
 2) Код выложен на на платформу GitHub
 3) Код оформел требуемым образом
 
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project_1/README.md#Оглавление)
+
 ## 5. Результат
 Разработана код, который позволяет угадать число от 1 до 100 в среднем за 6 попыток
 
@@ -47,3 +51,5 @@
 
 ## 6. Выводы
 Код выполняет поставленные задачи качественно!
+
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project_1/README.md#Оглавление)
