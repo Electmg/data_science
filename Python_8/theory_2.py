@@ -56,3 +56,25 @@ counter_spb = Counter(cars_spb)
 #from collections import Counter
 #c = Counter(clients)
 #print(len(list(c)))
+
+# DEFAULTDICT
+# Обычный способ
+students = [('Ivanov',1),('Smirnov',4),('Petrov',3),('Kuznetsova',1),
+            ('Nikitina',2),('Markov',3),('Pavlov',2)]
+#groups = dict()
+ 
+#for student, group in students:
+    # Проверяем, есть ли уже эта группа в словаре
+    #if group not in groups:
+        # Если группы ещё нет в словаре, создаём для неё пустой список
+        #groups[group] = list()
+    #groups[group].append(student)
+ 
+#ИЛИ Через DEFAULTDICT:
+#from collections import defaultdict
+
+#groups = defaultdict(list)
+#for student, group in students:
+    #groups[group].append(student)
+#print(groups)
+#print(type(groups))
