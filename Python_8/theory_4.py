@@ -74,3 +74,24 @@ ratings.sort(key= lambda x: (-x[1], x[0]))
 from collections import OrderedDict
 
 cafes = OrderedDict(ratings)
+
+# Задание 4.10
+from collections import defaultdict 
+from collections import deque
+
+def task_manager(tasks):
+    servers = defaultdict(deque)
+    for task in tasks:
+        if task[-1] is True:
+            servers[task[1]].appendleft(task[0])
+        else:
+            servers[task[1]].append(task[0])
+    return servers
+
+tasks = [(36871, 'office', False),
+(40690, 'office', False),
+(35364, 'voltage', False),
+(41667, 'voltage', True),
+(33850, 'office', False)]
+ 
+print(task_manager(tasks))
