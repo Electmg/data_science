@@ -1,12 +1,12 @@
 # Анализ резюме из HeadHunter
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Описание-проекта)
-* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#какой-кейс-мы-решаем)
-* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Результат)
-* [6. Выводы](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Выводы)
+* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Описание-проекта)
+* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#какой-кейс-мы-решаем)
+* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Результат)
+* [6. Выводы](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Выводы)
 
 ## 1. Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
@@ -14,7 +14,7 @@
 Файлы с исходными данными расположенны по ссылкам: (https://drive.google.com/file/d/1Y50301yHBALfB2s5-8zw95QST0IlKE98/view?sp=share_link)
 (https://drive.google.com/file/d/1D2Ut--ydC_q_I0LQl2DwkoAPmRhtLtv_/view?usp=share_link)
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Оглавление)
 
 ## 2. Какой кейс мы решаем
 Проект состоит из четырёх частей:
@@ -60,13 +60,13 @@
 - Учимся строить графики с использованием библиотек matplotlib, seaborn, plotly;
 - Учимся делать выводы исходя из построенных графиков.
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Оглавление)
 
 ## 3. Краткая информация о данных
 Код представлен в файле Project-1. Ноутбук-шаблон Болотов М.Г.ipynb
 Код написан на Python версии 3.9.10
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Оглавление)
 
 ## 4. Этапы работы над проектом
 Работа проведена в 4 этапа:
@@ -75,7 +75,7 @@
 3) Код оформел требуемым образом
 4) Код отправлен ментору для проверки
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Оглавление)
 
 ## 5. Результат
 
@@ -83,15 +83,15 @@
 - Выполнены ответы на все контрольные вопросы;
 - Загружен ноутбук со своим решением на GitHub, оформив его в соответствии с требованиями;
 - Выполнены выводы по разведывательному анализу;
-- Результат работы выполнен в формате .ipynb и находится по ссылке (https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/Project-1. Ноутбук-шаблон Болотов М.Г.ipynb)
-- Результат работы в формате HTML можно скачать по ссылке: (https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/HTML/Project-1. Ноутбук-шаблон Болотов М.Г.html)
-- Графики выполненные с использованием библиотеки plotly находятся в папке HTML по ссылке: (https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/HTML)
+- Результат работы выполнен в формате .ipynb и находится по ссылке (https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/Project-1_Болотов_М_Г.ipynb)
+- Результат работы в формате HTML можно скачать по ссылке: (https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/HTML/Project-1_Болотов_М_Г.html)
+- Графики выполненные с использованием библиотеки plotly находятся в папке HTML по ссылке: (https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/HTML)
 - Проект сдан на проверку для получения обратной связи от команды курса.
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Оглавление)
 
 
 ## 6. Выводы
 Выводы будут сделаны после проверки ментором!
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1. Анализ резюме из HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_1_HeadHunter/README.md#Оглавление)
