@@ -1,18 +1,18 @@
 # Анализ вакансий из HeadHunter
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Описание-проекта)
-* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#какой-кейс-мы-решаем)
-* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Результат)
-* [6. Выводы](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Выводы)
+* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Описание-проекта)
+* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#какой-кейс-мы-решаем)
+* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Результат)
+* [6. Выводы](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Выводы)
 
 ## 1. Описание проекта
  Представим, что мы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Оглавление)
 
 ## 2. Какой кейс мы решаем
 Необходимо работать с датасетом, в котором содержатся сведения о 515 000 отзывов на отели Европы. Модель, которую мы будем обучать, должна предсказывать рейтинг отеля по данным сайта Booking на основе имеющихся в датасете данных. Изученные нами навыки разведывательного анализа помогут улучшить модель.
@@ -46,13 +46,13 @@
 - Учимся создавать, преобразовывать и производить отбор новых признаков;
 - Учимся делать выводы исходя из полученных данных, построенных графиков и значений MAPE.
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Оглавление)
 
 ## 3. Краткая информация о данных
 Код представлен в файле EDA_Project_3_model_Болотов_М.Г.ipynb
 Код написан на Python версии 3.9.10
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Оглавление)
 
 ## 4. Этапы работы над проектом
 Работа проведена в 4 этапа:
@@ -62,7 +62,7 @@
 4) Код и его результаты выложены на соревнования в Kaggle 
 5) Код отправлен ментору для проверки
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Оглавление)
 
 ## 5. Результат
 
@@ -70,13 +70,13 @@
 - Загружен ноутбук со своим решением на GitHub, оформив его в соответствии с требованиями;
 - Выполнены выводы по Разведовательному анализу;
 - Произведена оценка модели в соответствии с метрикой MAPE = 0.0559
-- Результат работы выполнен в формате .ipynb и находится по ссылке (https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/EDA_Project_3_model_Болотов_М.Г.ipynb)
+- Результат работы выполнен в формате .ipynb и находится по ссылке (https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/EDA_Project_3_model_Болотов_М.Г.ipynb)
 - Проект сдан на проверку для получения обратной связи от команды курса.
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Оглавление)
 
 
 ## 6. Выводы
 Выводы будут сделаны после проверки ментором!
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature Engineering/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/PROJECT_3_EDA+Feature_Engineering/README.md#Оглавление)
