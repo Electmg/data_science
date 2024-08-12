@@ -1,12 +1,12 @@
 # PROJECT-4. Задача классификации
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md##Описание-проекта)
-* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md##какой-кейс-мы-решаем)
-* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md##Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md##Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md##Результат)
-* [6. Выводы](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md##Выводы)
+* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md#Описание-проекта)
+* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md#какой-кейс-мы-решаем)
+* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md#Результат)
+* [6. Выводы](https://github.com/Electmg/data_science/blob/main/PROJECT_4_Machine_Learning/README.md#Выводы)
 
 ## 1. Описание проекта
  Банки хранят огромные объёмы информации о своих клиентах. Эти данные можно использовать для того, чтобы оставаться на связи с клиентами и индивидуально ориентировать их на подходящие именно им продукты или банковские предложения.
