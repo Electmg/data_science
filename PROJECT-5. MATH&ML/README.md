@@ -1,4 +1,4 @@
-# Project-5_MATH&ML_Bolotov_MG. Задача классификации
+# Project-5_MATH&ML_Bolotov_MG. Задача регрессии
 
 ## Оглавление
 * [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Описание-проекта)
