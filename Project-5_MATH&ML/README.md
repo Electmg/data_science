@@ -1,12 +1,12 @@
-# Project-5_MATH&ML_Bolotov_MG. Задача регрессии
+# Project-5_MATH&ML. Задача регрессии
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Описание-проекта)
-* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#какой-кейс-мы-решаем)
-* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Результат)
-* [6. Выводы](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Выводы)
+* [1. Описание проекта](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Описание-проекта)
+* [2. Какой кейс мы решаем](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#какой-кейс-мы-решаем)
+* [3. Краткая информация о данных](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Результат)
+* [6. Выводы](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Выводы)
 
 ## 1. Описание проекта
 Представьте, что вы заказываете такси из одной точки Нью-Йорка в другую, причём необязательно, что конечная точка должна находиться в пределах города. Сколько вы должны будете заплатить за поездку?
@@ -20,7 +20,7 @@
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Оглавление)
 
 ## 2. Какой кейс мы решаем
 Задача, которая решена, была представлена в качестве Data Science-соревнования с призовым фондом в 30 000 $ на платформе Kaggle в 2017 году.
@@ -67,13 +67,13 @@
 - Учимся строить прогностические модели(ансамбли моделей и построение прогноза) и оценивать их качество; 
 - Учимся подбирать оптимальные параметры модели для того, чтобы получить наилучший результат для конкретного алгоритма..
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Оглавление)
 
 ## 3. Краткая информация о данных
 Код представлен в файле Project-5_MATH&ML_Bolotov_MG.ipynb
 Код написан на Python версии 3.9.10
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Оглавление)
 
 ## 4. Этапы работы над проектом
 Работа проведена в 4 этапа:
@@ -83,7 +83,7 @@
 4) Код оформел требуемым образом
 5) Выполненны ответы на все поставленные вопросы
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Оглавление)
 
 ## 5. Результат
 
@@ -92,12 +92,12 @@
 - Загружен решение на платформу Kaggle, получен результат метрики RMSLE = 0,62;
 - Выполнены все необходимые выводы по каждому поставленному вопросу;
 - Произведена оценка каждой модели, в соответствии с небходимой для поставленой задачей метрики 
-- Результат работы выполнен в формате .ipynb и находится по ссылке (https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/Project-5_MATH&ML_Bolotov_MG.ipynb).
+- Результат работы выполнен в формате .ipynb и находится по ссылке (https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/Project-5_MATH&ML_Bolotov_MG.ipynb).
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Оглавление)
 
 
 ## 6. Выводы
 Все поставленные задачи выполнены!
 
-:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML_Bolotov_MG/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Project-5_MATH&ML/README.md#Оглавление)
