@@ -7,7 +7,7 @@
 * [4. Этапы работы над проектом](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Этапы-работы-над-проектом)
 * [5. Результат](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Результат)
 * [6. Выводы](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Выводы)
-* [7. Заключение ментора](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Заключение ментора)
+* [7. Заключение ментора](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Заключение_ментора)
 
 ## 1. Описание проекта
 Предстоит решить настоящую задачу машинного обучения, направленную на автоматизацию бизнес процессов. Необходимо построим модель, которая будет предсказывать стоимости жилья для агентства недвижимости.
@@ -100,6 +100,8 @@
 
 :arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Оглавление)
 
-## 7. Заключение ментора
+## 7. Заключение_ментора
 Сылка на отзыв ментора о дипломной работе:
 https://docs.google.com/document/d/17q3ScBH_pSeCL24mOcUz15KXWGVfzPjW-3A0_tvTrPc/edit?pli=1&tab=t.0
+
+:arrow_up:[к оглавлению](https://github.com/Electmg/data_science/blob/main/Diploma_project/README.md#Оглавление)
